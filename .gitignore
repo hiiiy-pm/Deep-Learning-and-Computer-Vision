@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.vscode/
+outputs/smoke_predictions.csv
+outputs/api_server.*.log
+outputs/frontend_server.*.log
+
+# Python virtual environment
+mamba_cv/
+
+# Node.js dependencies
+frontend/node_modules/
